@@ -1,4 +1,7 @@
 # Gesture-Implementation-in-Android-web-browser
+
+Download in [play store](https://play.google.com/store/apps/details?id=com.Fast)
+
 Browse your favorite Site on touch of Gesture.
 
 **Features:**
